@@ -1,25 +1,56 @@
-<h1 align="center">Hi 👋, I'm Sandip Kundu</h1>
-<h3 align="center">Final Year Computer Science Student Specialized in AI</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sandip+Kundu;AI+%7C+Final+Year+CS+Student;Passionate+about+ML+%26+DevOps" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codes-by-sandip&label=Profile%20views&color=0e75b6&style=flat" alt="codes-by-sandip" /> </p>
+<h3 align="center">✨ Final Year Computer Science Student | Specialized in AI ✨</h3>
 
-- 🔭 I’m currently working on **Sign Language Detection**
+---
 
-- 🌱 I’m currently learning **DevOps**
-
-- 📫 How to reach me **sandipkundu.tech@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandip kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandip kundu" height="30" width="40" /></a>
-<a href="https://fb.com/sandip kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandip kundu" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codes-by-sandip&label=Profile%20views&color=0e75b6&style=flat" alt="codes-by-sandip" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codes-by-sandip&show_icons=true&locale=en&layout=compact" alt="codes-by-sandip" /></p>
+- 🔭 I’m currently working on **Sign Language Detection**  
+- 🌱 I’m currently learning **DevOps**  
+- 📫 Reach me at **sandipkundu.tech@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codes-by-sandip&show_icons=true&locale=en" alt="codes-by-sandip" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codes-by-sandip&" alt="codes-by-sandip" /></p>
+<h2 align="center">🌐 Connect with me 🌐</h2>
+<p align="center">
+<a href="[https://linkedin.com/in/sandip kundu](https://www.linkedin.com/in/sandip-kundu-873b28383)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://fb.com/sandip kundu](https://www.facebook.com/share/17XHnxZENY/)" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,git,linux,mysql,opencv,pandas,sklearn,seaborn&perline=6" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats & Graphs 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codes-by-sandip&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codes-by-sandip&theme=highcontrast" alt="streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codes-by-sandip&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+<h2 align="center">⚡ Fun Visuals ⚡</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
