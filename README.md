@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sandip+Kundu;AI+%7C+Final+Year+CS+Student;Passionate+about+ML+%26+DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sandip+Kundu" />
 </h1>
 
 <h3 align="center">✨ Final Year Computer Science Student | Specialized in AI ✨</h3>
