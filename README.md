@@ -12,12 +12,6 @@
 
 ---
 
-- 🔭 I’m currently working on **Sign Language Detection**  
-- 🌱 I’m currently learning **DevOps**  
-- 📫 Reach me at **sandipkundu.tech@gmail.com**
-
----
-
 <h2 align="center">🌐 Connect with me 🌐</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/sandip-kundu-873b28383" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
